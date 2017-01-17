@@ -1,9 +1,13 @@
 {
   "name": "jest-offline",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Add to setupFiles in jest to block network access for tests",
   "main": "index.js",
   "author": "Jason Palmer",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/palmerj3/jest-offline"
+  },
   "license": "Apache 2.0",
   "dependencies": {
     "mitm": "^1.3.2"
